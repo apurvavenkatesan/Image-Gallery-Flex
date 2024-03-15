@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+ }  
+body{
+    background-color: rgb(7, 23, 23);
+    font-family: 'Montserrat', sans-serif;
+    margin-top:25px;
+}
+.title{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.container{
+    /* padding: 20px; */
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container div{
+    padding: 10px;
+    color: white;
+    flex-basis: 20%;
+}
+
+img { 
+    border: 5px solid #7e7b7b; 
+    transition:transform 0.3s;
+}
+img:hover {
+     transform: scale(1.1);
+}
+
+footer { 
+    margin:0;
+    background-color:  #cccccc56; 
+    padding: 10px; 
+    font-size: 1.2rem; 
+    text-align: center; }
