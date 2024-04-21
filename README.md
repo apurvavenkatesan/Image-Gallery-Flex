@@ -1,1 +1,1 @@
-# Main
+The Flex Image Gallery project showcases my expertise in CSS Flexbox layout. It's a sleek and modern image gallery designed with simplicity and professionalism in mind. This project reflects my commitment to mastering essential web development techniques and highlights my ability to create visually appealing yet functional interfaces. 
